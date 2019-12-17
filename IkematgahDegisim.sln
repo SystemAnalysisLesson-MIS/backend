@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IkematgahDegisim.Core", "IkematgahDegisim.Core\IkematgahDegisim.Core.csproj", "{7DAC4909-D282-4C21-A08C-E53EA59628F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IkematgahDegisim.Entity", "IkematgahDegisim.Entity\IkematgahDegisim.Entity.csproj", "{71554DDA-98D3-429C-AAA9-E7E10B77BB0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IkematgahDegisim.DataAccess", "IkematgahDegisim.DataAccess\IkematgahDegisim.DataAccess.csproj", "{E704EAB2-A33C-4556-BBE3-13CCD0537CA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IkematgahDegisim.Business", "IkematgahDegisim.Business\IkematgahDegisim.Business.csproj", "{4479E08C-2DB0-4642-B285-BE9AFE689D4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IkematgahDegisim.WebAPI", "IkematgahDegisim.WebAPI\IkematgahDegisim.WebAPI.csproj", "{10B2F1AC-1322-4207-9B81-909B074A074C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DAC4909-D282-4C21-A08C-E53EA59628F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DAC4909-D282-4C21-A08C-E53EA59628F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DAC4909-D282-4C21-A08C-E53EA59628F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DAC4909-D282-4C21-A08C-E53EA59628F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71554DDA-98D3-429C-AAA9-E7E10B77BB0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71554DDA-98D3-429C-AAA9-E7E10B77BB0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71554DDA-98D3-429C-AAA9-E7E10B77BB0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71554DDA-98D3-429C-AAA9-E7E10B77BB0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E704EAB2-A33C-4556-BBE3-13CCD0537CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E704EAB2-A33C-4556-BBE3-13CCD0537CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E704EAB2-A33C-4556-BBE3-13CCD0537CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E704EAB2-A33C-4556-BBE3-13CCD0537CA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4479E08C-2DB0-4642-B285-BE9AFE689D4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4479E08C-2DB0-4642-B285-BE9AFE689D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4479E08C-2DB0-4642-B285-BE9AFE689D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4479E08C-2DB0-4642-B285-BE9AFE689D4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10B2F1AC-1322-4207-9B81-909B074A074C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B2F1AC-1322-4207-9B81-909B074A074C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B2F1AC-1322-4207-9B81-909B074A074C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B2F1AC-1322-4207-9B81-909B074A074C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76E4B022-9AF1-44A7-81E1-4A836F998DAF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Core\bin\Debug\netcoreapp3.0\IkematgahDegisim.Core.deps.json
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Core\bin\Debug\netcoreapp3.0\IkematgahDegisim.Core.dll
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Core\obj\Debug\netcoreapp3.0\IkematgahDegisim.Core.AssemblyInfoInputs.cache
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Core\obj\Debug\netcoreapp3.0\IkematgahDegisim.Core.AssemblyInfo.cs
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Core\bin\Debug\netcoreapp3.0\IkematgahDegisim.Core.pdb
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Core\obj\Debug\netcoreapp3.0\IkematgahDegisim.Core.dll
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Core\obj\Debug\netcoreapp3.0\IkematgahDegisim.Core.pdb
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Core\obj\Debug\netcoreapp3.0\IkematgahDegisim.Core.csprojAssemblyReference.cache

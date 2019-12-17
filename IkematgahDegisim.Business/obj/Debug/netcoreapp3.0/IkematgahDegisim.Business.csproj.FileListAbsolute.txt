@@ -1,0 +1,15 @@
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Business\bin\Debug\netcoreapp3.0\IkematgahDegisim.Business.deps.json
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Business\bin\Debug\netcoreapp3.0\IkematgahDegisim.Business.dll
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Business\bin\Debug\netcoreapp3.0\IkematgahDegisim.Business.pdb
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Business\obj\Debug\netcoreapp3.0\IkematgahDegisim.Business.csprojAssemblyReference.cache
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Business\obj\Debug\netcoreapp3.0\IkematgahDegisim.Business.AssemblyInfoInputs.cache
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Business\obj\Debug\netcoreapp3.0\IkematgahDegisim.Business.AssemblyInfo.cs
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Business\obj\Debug\netcoreapp3.0\IkematgahDegisim.Business.dll
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Business\obj\Debug\netcoreapp3.0\IkematgahDegisim.Business.pdb
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Business\bin\Debug\netcoreapp3.0\IkematgahDegisim.Core.dll
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Business\bin\Debug\netcoreapp3.0\IkematgahDegisim.DataAccess.dll
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Business\bin\Debug\netcoreapp3.0\IkematgahDegisim.Entity.dll
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Business\bin\Debug\netcoreapp3.0\IkematgahDegisim.DataAccess.pdb
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Business\bin\Debug\netcoreapp3.0\IkematgahDegisim.Core.pdb
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Business\bin\Debug\netcoreapp3.0\IkematgahDegisim.Entity.pdb
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Business\obj\Debug\netcoreapp3.0\IkematgahDegisim.Business.csproj.CopyComplete

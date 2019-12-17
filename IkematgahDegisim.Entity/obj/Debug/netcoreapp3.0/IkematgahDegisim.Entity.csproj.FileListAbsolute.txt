@@ -1,0 +1,11 @@
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Entity\bin\Debug\netcoreapp3.0\IkematgahDegisim.Entity.deps.json
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Entity\bin\Debug\netcoreapp3.0\IkematgahDegisim.Entity.dll
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Entity\bin\Debug\netcoreapp3.0\IkematgahDegisim.Entity.pdb
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Entity\bin\Debug\netcoreapp3.0\IkematgahDegisim.Core.dll
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Entity\bin\Debug\netcoreapp3.0\IkematgahDegisim.Core.pdb
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Entity\obj\Debug\netcoreapp3.0\IkematgahDegisim.Entity.csprojAssemblyReference.cache
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Entity\obj\Debug\netcoreapp3.0\IkematgahDegisim.Entity.AssemblyInfoInputs.cache
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Entity\obj\Debug\netcoreapp3.0\IkematgahDegisim.Entity.AssemblyInfo.cs
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Entity\obj\Debug\netcoreapp3.0\IkematgahDegisim.Entity.csproj.CopyComplete
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Entity\obj\Debug\netcoreapp3.0\IkematgahDegisim.Entity.dll
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.Entity\obj\Debug\netcoreapp3.0\IkematgahDegisim.Entity.pdb

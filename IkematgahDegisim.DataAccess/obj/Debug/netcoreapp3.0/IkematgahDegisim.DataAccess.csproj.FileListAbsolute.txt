@@ -1,0 +1,15 @@
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.DataAccess\bin\Debug\netcoreapp3.0\IkematgahDegisim.Core.dll
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.DataAccess\bin\Debug\netcoreapp3.0\IkematgahDegisim.Entity.dll
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.DataAccess\obj\Debug\netcoreapp3.0\IkematgahDegisim.DataAccess.csprojAssemblyReference.cache
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.DataAccess\obj\Debug\netcoreapp3.0\IkematgahDegisim.DataAccess.AssemblyInfoInputs.cache
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.DataAccess\obj\Debug\netcoreapp3.0\IkematgahDegisim.DataAccess.AssemblyInfo.cs
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.DataAccess\bin\Debug\netcoreapp3.0\IkematgahDegisim.DataAccess.deps.json
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.DataAccess\bin\Debug\netcoreapp3.0\IkematgahDegisim.DataAccess.runtimeconfig.json
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.DataAccess\bin\Debug\netcoreapp3.0\IkematgahDegisim.DataAccess.runtimeconfig.dev.json
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.DataAccess\bin\Debug\netcoreapp3.0\IkematgahDegisim.DataAccess.dll
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.DataAccess\bin\Debug\netcoreapp3.0\IkematgahDegisim.DataAccess.pdb
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.DataAccess\bin\Debug\netcoreapp3.0\IkematgahDegisim.Core.pdb
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.DataAccess\bin\Debug\netcoreapp3.0\IkematgahDegisim.Entity.pdb
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.DataAccess\obj\Debug\netcoreapp3.0\IkematgahDegisim.DataAccess.csproj.CopyComplete
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.DataAccess\obj\Debug\netcoreapp3.0\IkematgahDegisim.DataAccess.dll
+C:\Users\qw\Desktop\IkematgahDegisim\IkematgahDegisim.DataAccess\obj\Debug\netcoreapp3.0\IkematgahDegisim.DataAccess.pdb
